@@ -59,3 +59,10 @@ EOF
 %{_datadir}/applications/%{name}.desktop
 %{_iconsdir}/hicolor/*/apps/%{name}.png
 
+
+
+%changelog
+* Wed Mar 28 2012 Andrey Bondrov <abondrov@mandriva.org> 1.1.0-1
++ Revision: 787934
+- imported package hex-a-hop
+
