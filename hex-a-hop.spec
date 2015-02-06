@@ -1,6 +1,6 @@
 Name:		hex-a-hop
 Version:	1.1.0
-Release:	%mkrel 1
+Release:	2
 Summary:	A hexagonal tile-based puzzle game
 Group:		Games/Puzzles
 License:	GPL
