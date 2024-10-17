@@ -4,7 +4,7 @@ Release:	2
 Summary:	A hexagonal tile-based puzzle game
 Group:		Games/Puzzles
 License:	GPL
-URL:		http://hexahop.sourceforge.net/
+URL:		https://hexahop.sourceforge.net/
 Source:		http://sourceforge.net/projects/hexahop/files/%{version}/%{name}-%{version}.tar.gz
 BuildRequires:	SDL-devel
 BuildRequires:	SDL_mixer-devel
