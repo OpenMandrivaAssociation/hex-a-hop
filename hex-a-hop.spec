@@ -6,6 +6,11 @@ Group:		Games/Puzzles
 License:	GPL
 URL:		https://hexahop.sourceforge.net/
 Source:		http://sourceforge.net/projects/hexahop/files/%{version}/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	SDL-devel
 BuildRequires:	SDL_mixer-devel
 BuildRequires:	SDL_ttf-devel
